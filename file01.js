@@ -1,1 +1,7 @@
-console.log("smiti khurana");
+function greet (name){
+console.log('hello '+ name);
+
+}
+
+greet('smiti')
+
